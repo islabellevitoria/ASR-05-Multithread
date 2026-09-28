@@ -1,8 +1,6 @@
 [readme_md.md](https://github.com/user-attachments/files/32716210/readme_md.md)
 # Sistemas Distribuídos - Tarefa ASR 05: Cliente-Servidor Multithreaded
 
-Este repositório contém a implementação de uma arquitetura cliente-servidor em Python utilizando a biblioteca padrão de *sockets*. O projeto resolve as tarefas **ASR 04** e **ASR 05**, trazendo processamento de múltiplas operações no servidor e avaliação de desempenho entre abordagens *single-threaded* e *multithreaded*.
-
 ---
 
 ## Estrutura do Projeto
